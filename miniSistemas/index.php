@@ -30,11 +30,12 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="pesquisa">pesquisa</a>
+          <a class="nav-link" href="planoProprio">Plano Proprio</a>
         </li>
 
+        
         <li class="nav-item">
-          <a class="nav-link" href="planoProprio">Plano Proprio</a>
+          <a class="nav-link" href="FaturaMensalidade">Fatura Mensalidade</a>
         </li>
 
         <li class="nav-item">
